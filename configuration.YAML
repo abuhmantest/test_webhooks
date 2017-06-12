@@ -1,4 +1,3 @@
-animal: cat
-animals:
-  feline: cat
-  canine: dog
+output_file_name: kitty_cat
+output_type: tag-value
+scanner: scancode

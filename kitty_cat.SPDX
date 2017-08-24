@@ -9,7 +9,7 @@ DataLicense: CC0-1.0
 # Creation Info
 
 Creator: Tool: ScanCode 2.0.0rc2
-Created: 2017-07-16T19:44:04Z
+Created: 2017-08-24T19:45:17Z
 
 
 
@@ -18,7 +18,7 @@ Created: 2017-07-16T19:44:04Z
 
 PackageName: test_webhooks-master/
 PackageDownloadLocation: NOASSERTION
-PackageVerificationCode: b7639546c9f88d31b81cd675222e9d5c4cfe84bf
+PackageVerificationCode: 6df4268efd61d0ab769be5ee2b63b137f936ca92
 PackageLicenseDeclared: NOASSERTION
 PackageLicenseConcluded: NOASSERTION
 PackageLicenseInfoFromFiles: GPL-1.0+
@@ -31,8 +31,10 @@ PackageCopyrightText: NOASSERTION
 # File
 
 FileName: kitty_cat.SPDX
-FileChecksum: SHA1: a9223eb7fa124f007edfdff717046326ff75547f
+FileChecksum: SHA1: c1ec557bb6f738583de7d9f1fb4d96b7edf96394
 LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-1.0+
+LicenseInfoInFile: GPL-3.0
 LicenseInfoInFile: GPL-1.0+
 LicenseInfoInFile: GPL-3.0
 LicenseInfoInFile: GPL-3.0
@@ -57,7 +59,7 @@ FileCopyrightText: NOASSERTION
 # File
 
 FileName: README.md
-FileChecksum: SHA1: 34b2c1e7a9b9efea0a2f654c0a1e70b173319928
+FileChecksum: SHA1: 38bd5835e56efbd654b05baaf81d8c5032b55207
 LicenseConcluded: NOASSERTION
 LicenseInfoInFile: NONE
 FileCopyrightText: NOASSERTION
